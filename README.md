@@ -59,22 +59,7 @@
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
 
 
-<h2>Open-Source-Programmes⭐</h2>
 
- ### This project is now OFFICIALLY accepted for
- 
-![GSSOC](https://github.com/apu52/METAVERSE/assets/114172928/e79eb6de-81b1-4ffb-b6ed-f018bb977e88)
-
-### This project was part of following Open Source Programs
-
-<div align="center">
-  
-  <img src="img/JWOC.png" width="50%">
-</div>
-
-<h2>Getting Started💥</h2>
-
-<h3>Local Installation video</h3> -> [video](https://drive.google.com/file/d/1LsBudIUtZLDMSlmBDdOfT001QRqGBSbN/view?usp=sharing)
 
 
 
