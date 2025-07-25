@@ -11,15 +11,6 @@
  <div align="center">
  <p>
 
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=apu52%2FTravel_Website%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/apu52/Travel_Website)
-![GitHub Repo stars](https://img.shields.io/github/stars/apu52/Travel_Website)
-![GitHub last commit](https://img.shields.io/github/last-commit/apu52/Travel_Website)
-![GitHub repo size](https://img.shields.io/github/repo-size/apu52/Travel_Website)
-![Github](https://img.shields.io/github/license/apu52/Travel_Website)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/apu52/Travel_Website)
 
  </p>
  </div>
@@ -217,25 +208,6 @@ Show some ❤️&nbsp; by giving <img src="https://imgur.com/o7ncZFp.jpg" height
 </table>
   
 </div>
-
-
-
-## Contributing is fun🧡
-<p align ="center">
-  <img src="https://github.com/shruti-sen2004/Travel_Website/assets/115914670/d544fd3b-aed2-4a05-a2f8-0b7a2ff9014f" width="700" height= "250" />
-</p>
-
-<a href="https://github.com/apu52/Travel_Website/graphs/contributors">
-  <img align="center" src="https://contrib.rocks/image?max=100&repo=apu52/Travel_Website" />
-</a> 
-<br><br>
-Thank you to all the amazing contributors who have made this project possible!!💝
-
-## License 
-<img src = "https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge">
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/badge/Move%20to%20top-Blue?style=plastic" alt="Back To Top"></a></p>
-
 
 
 
